@@ -18,6 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nodejs,threejs,django,pytorch,pandas,mysql,vscode,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nodejs,threejs,django,pytorch,mysql,vscode,git,github" alt="My Skills" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" style="margin-left: 5px; vertical-align: top;" />
 </p>
