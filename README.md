@@ -19,6 +19,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,go,html,css,js,nodejs,threejs,django,tensorflow,pytorch,sklearn,pandas,mysql,vscode,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nodejs,threejs,django,pytorch,pandas,mysql,vscode,git,github" alt="My Skills" />
   </a>
 </p>
