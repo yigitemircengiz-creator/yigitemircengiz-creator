@@ -1,9 +1,8 @@
 ## Hi, I'm Yiğit Emir Cengiz 👋
-### About me
 ---
 
-📚 I'm a Computer Engineer
-🤖 Focusing AI Engineering & Applied AI Development
+ I'm a Computer Engineer
+ Focusing AI Engineering & Applied AI Development
 
 ### My LinkedIn Account
 ---
