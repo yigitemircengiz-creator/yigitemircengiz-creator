@@ -2,6 +2,7 @@
 ---
 
  I'm a Computer Engineer
+ 
  Focusing AI Engineering & Applied AI Development
 
 ### My LinkedIn Account
